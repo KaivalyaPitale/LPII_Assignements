@@ -1,0 +1,32 @@
+Metabolic Syndrome Pridictor
+
+Enter age: 1
+Gene A present ? Yes[1]/No[0]: 1
+Gene B present ? Yes[1]/No[0]: 1
+Gene C present ? Yes[1]/No[0]: 1
+Gene D present ? Yes[1]/No[0]: 1
+Per mcL quantity of blood cells: 1
+Breathing Rate ? Normal[0]/Tachypnea[1]: 1
+Pulse Rate ? Normal[0]/Tachycardia[1]: 1
+Diagnostic Testing ? Positive[1]/Negative[0]: 1
+Carrier Testing ? Positive[1]/Negative[0]: 1
+Enzyme Test ? Positive[1]/Negative[0]: 1
+Insulin Test ? Positive[1]/Negative[0]: 1
+Thyroid Test ? Positive[1]/Negative[0]: 1
+Gastrin Defect ? Yes[1]/No[0]: 1
+Neural Anomaly ? Yes[1]/No[0]: 1
+Assistance needed in fertility ? Yes[1]/No[0]: 1
+Previous maternal pregnancy record ? Yes[1]/No[0]: 1
+Maternal Abortion count: 1
+Per mcL quantity of white blood cells: 1
+High triglyceride level ? Yes[1]/No[0]: 1
+Reduced HDL ? Yes[1]/No[0]: 1
+High BP ? Yes[1]/No[0]: 1
+Gender (M/F/N): 1
+Presence of severe allergies (Y/N/NA/-): 1
+Premature delivery (Y/N/NA/-): 1
+CMP Results (Normal(n)/Abnormal(a)/Slightly Abnormal(sa)/-): 1
+
+				Diagnosis:  Type B
+Continue? [1]: 2
+				Thank you !! cya !!

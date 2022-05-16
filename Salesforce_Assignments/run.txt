@@ -1,0 +1,11 @@
+Hello_world H = new Hello_world();
+H.greet();
+Triangle T = new Triangle(2,2,2);
+T.perimeter();
+T.area();
+Rectangle R = new Rectangle(2,4);
+R.perimeter();
+R.area();
+Circle C = new Circle(1);
+C.perimeter();
+C.area();

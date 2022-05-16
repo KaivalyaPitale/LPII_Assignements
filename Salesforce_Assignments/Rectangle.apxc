@@ -1,0 +1,25 @@
+public class Rectangle {
+    Double l;
+    Double b;
+    
+    public Rectangle(){
+        System.debug('Empty rectangle object is created !!!');
+    }
+    Public Rectangle(Double L, Double B)
+    {
+        this.l = L;
+        this.b = B;
+    }
+    Public Double perimeter()
+    {
+        Double P = l+b;
+        System.debug(P);
+        return P;
+    }
+    Public Double area()
+    {
+        Double A = l*b;
+        System.debug(A);
+        return A;
+    }
+}

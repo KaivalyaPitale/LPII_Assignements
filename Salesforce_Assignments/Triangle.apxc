@@ -1,0 +1,28 @@
+public class Triangle {
+    Double a;
+    Double b;
+    Double c;
+    
+    public Triangle(){
+        System.debug('Empty triangle object is created !!!');
+    }
+    Public Triangle(Double A, Double B, Double C)
+    {
+        this.a = A;
+        this.b = B;
+        this.c = C;
+    }
+    Public Double perimeter()
+    {
+        Double P = a + b + c;
+        System.debug(P);
+        return P;
+    }
+    Public Double area()
+    {
+        Double S = (a + b + c)/2;
+        Double A = Math.sqrt(S*(S-a)*(S-b)*(S-c));
+        System.debug(A);
+        return A;
+    }
+}

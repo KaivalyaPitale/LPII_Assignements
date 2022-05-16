@@ -1,0 +1,81 @@
+Enter number of nodes: 6
+Enter number of edges: 5
+Enter end nodes of edge 0:
+0
+1
+Enter end nodes of edge 1:
+1
+2
+Enter end nodes of edge 2:
+2
+3
+Enter end nodes of edge 3:
+3
+4
+Enter end nodes of edge 4:
+3
+4
+
+-------- Menu --------
+1. Display Adjacency Matrix
+2. Breadth First Search
+3. Depth First Search
+4. Exit
+Choose Option: 1
+
+
+Adjacency Matrix:
+   0 1 2 3 4 5
+0: 0 1 0 0 0 0
+1: 1 0 1 0 0 0
+2: 0 1 0 1 0 0
+3: 0 0 1 0 1 0
+4: 0 0 0 1 0 0
+5: 0 0 0 0 0 0
+
+-------- Menu --------
+1. Display Adjacency Matrix
+2. Breadth First Search
+3. Depth First Search
+4. Exit
+Choose Option: 2
+
+Enter starting node: 0
+
+BFS on starting vertex 0:  0 1 2 3 4
+-------- Menu --------
+1. Display Adjacency Matrix
+2. Breadth First Search
+3. Depth First Search
+4. Exit
+Choose Option: 3
+
+Enter starting node: 0
+
+DFS on starting vertex 0:  0 1 2 3 4
+-------- Menu --------
+1. Display Adjacency Matrix
+2. Breadth First Search
+3. Depth First Search
+4. Exit
+Choose Option: 3
+
+Enter starting node: 3
+
+DFS on starting vertex 3:  3 2 1 0 4
+-------- Menu --------
+1. Display Adjacency Matrix
+2. Breadth First Search
+3. Depth First Search
+4. Exit
+Choose Option: 2
+
+Enter starting node: 3
+
+BFS on starting vertex 3:  3 2 4 1 0
+-------- Menu --------
+1. Display Adjacency Matrix
+2. Breadth First Search
+3. Depth First Search
+4. Exit
+Choose Option: 4

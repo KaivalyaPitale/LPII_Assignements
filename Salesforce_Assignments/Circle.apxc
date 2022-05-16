@@ -1,0 +1,23 @@
+public class Circle {
+    Double r;
+    
+    public Circle(){
+        System.debug('Empty circle object is created !!!');
+    }
+    Public Circle(Double R)
+    {
+        this.r = R;
+    }
+    Public Double perimeter()
+    {
+        Double P = 2*MATH.PI*r;
+        System.debug(P);
+        return P;
+    }
+    Public Double area()
+    {
+        Double A = MATH.PI*r*r;
+        System.debug(A);
+        return A;
+    }
+}

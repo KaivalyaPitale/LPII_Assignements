@@ -1,0 +1,3 @@
+name,train no,route,fare_per_km
+Nagpur Pune SF Express,12136,"{'Nagpur': 0, 'Pune': 700}",3
+Mumbai Nagpur Duronto Express,12289,"{'Mumbai': 0, 'Nagpur': 800}",5
